@@ -370,6 +370,9 @@ h6 {
   font-size: 14px;
   padding: 4px 0;
   position: relative;
+  height: 100;
+  margin-top: 100px;
+  clear: both;
   border-top: 1px solid mcolor-mix(in srgb, var(--default-color), transparent 90%);
 }
 
